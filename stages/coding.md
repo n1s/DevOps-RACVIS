@@ -6,12 +6,14 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Code  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Code  | Client  | Product owner  | Developer | Tester  | UX  | System administrator |
+|------------------------- |-------- |-------- |-------- |-------- |-------- | --------------------- |
+| Implementing features    |         |    AV   |    R    |    CI   |    C    |        |
+| Writing documentation    |    CI   |    AV   |    RCV  |    R    |         |    RCV |
+| Refactoring code         |         |         |    RA   |    R    |    I    |        |
+| Performance testing      |         |         |    C    |    RA   |         |    CV   |
+| Code review              |         |         |    RVA  |    I    |    I    |        |
+| Product release          |  I      |  AVIS   |    ARS   |    S    |    CV   |  VI   |
   
   
 [Home](../index.md)  
